@@ -8,7 +8,5 @@ When a user gets connected to a relay node via DAPP, they need to pay network fe
 ### Channel group
 Subject to network service uncertainties, a single service provider can hardly guarantee service reliability, and a Layer 2 distributed network is then built. Several relay nodes can form a group based on geographic locations and user preferences, providing the users with network services. The user needs to create an on-chain channel for the group. A distributed consensus is reached among Layer2 networks of relay nodes based on the RAFT protocol. When a single point of failure occurs, DAPP will connect the user to other nodes in service, thus enhancing the service reliability and improving the user experience.
 
-Pronto Network is more than a network fee payment channel. The fast and safe transaction mechanism free of charge creates more application scenarios for DAPP in the Meshcoin.
-
 ### More
 Pronto Network is more than a network fee payment channel. The fast and safe transaction mechanism free of charge creates more application scenarios for DAPP in the Meshcoin.
